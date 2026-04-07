@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Oday AbuMettleq;Fullstack+Engineer;Building+with+Next.js+%26+TypeScript;Turning+ideas+into+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Oday+AbuMettleq;Fullstack+Engineer;Building+with+Next.js+%26+TypeScript;Turning+ideas+into+products" alt="Typing SVG" />
 </p>
 
 ---
@@ -31,24 +31,6 @@ open_to: "freelance | full-time | Start-ups"
   </a>
 </p>
 
----
-
-<p align="center"><strong>// github stats</strong></p>
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Mazoda&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=6366F1&icon_color=22D3EE&text_color=A1A1AA&ring_color=6366F1" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazoda&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090B&title_color=6366F1&text_color=A1A1AA" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</p>
-
----
 
 <p align="center"><strong>// contribution streak</strong></p>
 
@@ -84,10 +66,4 @@ open_to: "freelance | full-time | Start-ups"
   <a href="mailto:oabumutlak@gmail.com">
     <img src="https://img.shields.io/badge/Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Mazoda&label=Profile%20Views&color=6&icon=5&pretty=false" alt="Profile Views" />
 </p>
